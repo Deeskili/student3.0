@@ -13,3 +13,15 @@ image: images/erfef.webp
 #### Plans for week 12
 These plans include detailed steps for week 12 assignment
 
+**Monday:**
+Completed the final team project review and started studying for finals.
+
+**Tuesday:**
+Focused on studying for finals.
+
+**Wednesday:**
+Continued studying for finals.
+
+**Thursday:**
+Dedicated the day to final exam preparation.
+
