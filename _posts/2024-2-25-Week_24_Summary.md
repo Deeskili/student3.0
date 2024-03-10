@@ -12,3 +12,20 @@ image: images/plan-dice-760.jpg
 
 #### Plans for week 24
 These plans include detailed steps for week 24 assignment
+
+
+**Monday**
+- Fixed video and blog, still not up to standards. 
+
+**Tuesday**
+- Fixed video and blog, still not up to standards. 
+
+**Wednesday**
+- Fixed video and blog, still not up to standards. 
+
+**Thursday**
+- Finals. No CSP. 
+
+**Friday**
+- Get ready for individual review and teacher review. 
+
