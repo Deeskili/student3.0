@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: True
 layout: post
 title: Data Structure Blog test
 description: 
