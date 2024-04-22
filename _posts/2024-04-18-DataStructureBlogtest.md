@@ -19,7 +19,7 @@ image: images/erfef.webp
 
 ## List Extracted from Database as Python Objects
 
-![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716807652970496/Screenshot_2024-04-18_at_11.43.01_AM.png?ex=662331d8&is=6621e058&hm=283c9f3c80c910959736c6bb2e7806cf8c32563f8e1e73570b91f75c445179b7&=&format=webp&quality=lossless&width=1536&height=1306)
+![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716807652970496/Screenshot_2024-04-18_at_11.43.01_AM.png?ex=6627cf18&is=66267d98&hm=c87b619b26b031a2241f63b8d7328e58aed5961ae6c7d0fd9b78e3ecb1f30c21&=&format=webp&quality=lossless&width=1536&height=1306)
 
 ## Example Dictionaries
 
@@ -48,7 +48,7 @@ JSON response data for 200 success conditions on GET, POST, and UPDATE methods, 
 
 ## JavaScript Code for Fetching and Handling Data
 
-![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716808798146561/Screenshot_2024-04-18_at_12.17.18_PM.png?ex=662331d8&is=6621e058&hm=f05cf3a5be0f3e90b3a783928b4095e454994b808fce5e69528c01c8d6b8728b&=&format=webp&quality=lossless&width=1350&height=658)
+![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716808798146561/Screenshot_2024-04-18_at_12.17.18_PM.png?ex=6627cf18&is=66267d98&hm=6b0aa5ecdffb493f564188ebc057bd96281b6327ed7b1b5eeb852412b0f55bcc&=&format=webp&quality=lossless&width=2664&height=1300)
 
 Code fetches from the backend and gets specific song data. With success, the code will use the createItemBlock function to create a visual block for the song using the information provided, and display that block on the website. The code will give an "error fetchign data" error message if there is an error encountered. 
 
@@ -58,4 +58,4 @@ Many different datapoints with multiple parameters not limited to x,y,z are plot
 
 ## Understanding Decision Tree Analysis Algorithms
 
-The algorithm consists of many nodes and branches, where each node is a feature, and each branch is the outcome of that decision, which decides the next node. Tree starts at the top. Different criteria/rules of each node will change the next node, which will eventually change the answer. 
+The algorithm consists of many nodes and branches, where each node is a feature, and each branch is the outcome of that decision, which decides the next node. Tree starts at the top. Different criteria/rules of each node will change the next node, which will eventually change the answer..
