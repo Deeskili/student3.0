@@ -22,8 +22,7 @@ The image stored in this database is sent to the frontend. The frontend uses the
 I initialize the database (the image above) by first defining different parameters of each song, defining the id, name, url, etc. of the song, and then I actually intialize the database by assigning each column of the database to a variable so that I can actually use it later in the code. 
 
 ## List Extracted from Database as Python Objects
-
-![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716807652970496/Screenshot_2024-04-18_at_11.43.01_AM.png?ex=6627cf18&is=66267d98&hm=c87b619b26b031a2241f63b8d7328e58aed5961ae6c7d0fd9b78e3ecb1f30c21&=&format=webp&quality=lossless&width=1536&height=1306)
+![codeimage](https://i.ibb.co/F3pR4bM/structure111.jpg)
 
 After I set an endpoint in debugger to where the code returns all song data in JSON format, so we can see that the database is correctly setup and that the information is actually being used. 
 
@@ -58,7 +57,7 @@ For our delete function, which allows the user to delete a song from the databas
 Data is correctly fetched from backend. If backend was not running or broken, there would be no music boxes on the screen. 
 ## JavaScript Code for Fetching and Handling Data
 
-![Codeimage](https://media.discordapp.net/attachments/1219822341719068672/1230716808798146561/Screenshot_2024-04-18_at_12.17.18_PM.png?ex=6627cf18&is=66267d98&hm=6b0aa5ecdffb493f564188ebc057bd96281b6327ed7b1b5eeb852412b0f55bcc&=&format=webp&quality=lossless&width=2664&height=1300)
+![Codeimage](https://i.ibb.co/34WbNm1/Screenshot-2024-04-18-at-12-17-18-PM.webp)
 
 
 Code fetches from the backend and gets specific song data. With success, the code will use the createItemBlock function to create a visual block for the song using the information provided, and display that block on the website. The code will give an "error fetchign data" error message if there is an error encountered. 
